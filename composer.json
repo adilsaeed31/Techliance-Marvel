@@ -1,5 +1,5 @@
 {
-    "name": "Techliance/Marvel",
+    "name": "techliance/marvel",
     "description": "This package will help you build crud for api and admin side, with js frameworks like AngularJS and VueJS.",
     "authors": [
         {
