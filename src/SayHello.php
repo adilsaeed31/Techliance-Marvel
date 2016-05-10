@@ -13,6 +13,6 @@ class SayHello
 {
     public static function world()
     {
-        return 'Hello Techliance Marvel, Composer!'.PHP_EOL;
+        return 'Hello Techliance Marvel PHP Department!'.PHP_EOL;
     }
 }
